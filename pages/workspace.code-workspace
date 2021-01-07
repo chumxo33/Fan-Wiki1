@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\..\\HTML CSS cơ bản"
+		},
+		{
+			"path": "..\\..\\..\\ResumeCV"
+		},
+		{
+			"path": "..\\.."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "ResumeCV"
+	}
+}
